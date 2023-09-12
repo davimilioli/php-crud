@@ -41,6 +41,6 @@
 
 ---
 
-### Em caso de erros, entre em contato comigo pelo email:
+### Em caso de dúvidas ou erros, entre em contato comigo pelo email:
 
 > [davimilioli2108@gmail.com](mailto:davimilioli2108@gmail.com)
