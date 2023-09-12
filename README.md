@@ -3,7 +3,7 @@
 ### O que significa CRUD?
 #### Resumo
 
-> É um acrônimo para Create(criar), Read(ler), Update(atualizar) e Delelete(apagar).
+> É um acrônimo para Create(criar), Read(ler), Update(atualizar) e Delete(apagar).
 
 #### Create
 
@@ -41,6 +41,6 @@
 
 ---
 
-### Em caso de erros no repositório, entre em contato comigo pelo email:
+### Em caso de erros, entre em contato comigo pelo email:
 
 > [davimilioli2108@gmail.com](mailto:davimilioli2108@gmail.com)
