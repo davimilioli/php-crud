@@ -1,0 +1,13 @@
+<?php
+// NO OBJETO PDO SÃO PASSADOS OS SEGUITES PARAMETROS:
+// MYSQL:  TIPO DE BANCO DE DADOS
+// LOCALHOST ONDE ESTÁ O BANCO DE DADOS
+// DBNAME = NOME DO BANCO DE DADOS
+// CHARSET: CONJUNTO DE CARACTERS PARA SER USADO NA COMUNICAÇÃO COM O BANCO DE DADOS
+// NOME DE USUÁRIO: NOME DO USUÁRIO QUE ESTÁ ACESSANDO O BANCO DE DADOS
+// SENHA: SENHA PARA ACESSAR O BANCO DE DADOS (OPCIONAL)
+//EXEMPLO:
+// $pdo = new PDO("mysql:host=localdobanco;dbname=nomedobanco;charset=utf8", "usuario", "senha")
+
+
+$pdo = new PDO("mysql:host=localhost;dbname=test;charset=utf8", "root");
